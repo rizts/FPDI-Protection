@@ -8,7 +8,7 @@
   ],
   "require": {
     "php": ">=5.3.0",
-    "setasign/fpdi": "*"
+    "setasign/fpdi": "^2.5.0"
   },
   "license": "Setasign FPDI-Protection",
   "type": "library",
